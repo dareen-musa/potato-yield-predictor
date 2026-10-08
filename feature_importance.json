@@ -1,0 +1,15 @@
+{
+  "Heat_Stress_Days (HSD)": 0.0016926180105656385,
+  "Temp_Shock (TS) ": 0.0,
+  "Soil_Depth_cm": 0.03985690325498581,
+  "cloudcover%": 0.0,
+  "Wet_Days (WD)": 4.1203141593060266e-11,
+  "Nitrogen_%": 0.05307021737098694,
+  "Eff_Solar_Radiation (ESR)": 0.0,
+  "Phosphorus_mg_kg": 0.0,
+  "Potassium_mg_kg": 0.8387470245361328,
+  "Organic_Matter_%": 0.00439103227108717,
+  "Drainage_Quality": 1.8519499822566843e-10,
+  "pH": 0.0,
+  "Soil_Temperature_C": 0.062242209911346436
+}
